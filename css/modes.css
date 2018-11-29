@@ -1,0 +1,41 @@
+.mode-wrapper {
+    padding: 10px 0px 20px 0px;
+    vertical-align:middle;
+}
+
+input[type=checkbox] {
+    text-align: center;
+}
+
+.mode-wrapper:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.alert{
+    margin: 0 auto;
+    width: 50%;
+    padding: 4vw 0px 4vw 0px;
+    font-size: 5vw;
+    text-align: center;
+    color: white;
+    background-color: #4CAF50;;
+}
+
+.mode {
+    font-size: 5vw;
+    margin: 0.5%;
+    color: white;
+    float: left;
+    width: 23%;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    background-color: #4CAF50;;
+}
+
+h3{
+    font-size: 5vw;
+    text-align: center;
+    padding: 0px;
+}

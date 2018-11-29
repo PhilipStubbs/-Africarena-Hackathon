@@ -1,0 +1,63 @@
+.dest_wrapper{
+    width: 100%;
+    align-content: center;
+}
+
+.dest{
+    font-size: 5vw;
+    margin: 5px auto;
+    color: white;
+    width: 50%;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    background-color: #4CAF50;;
+}
+
+.estimation{
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+.estimation p{
+    font-size: 8vw;
+}
+
+.check-wrapper{
+    padding: 10px 0;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.check-wrapper input[type=checkbox] {
+    -webkit-appearance:none;
+    width:6vw;
+    height:6vw;
+    background:white;
+    border-radius:5px;
+    border:2px solid #555;
+    text-align: center;
+    vertical-align:middle;
+}
+
+.check-wrapper input[type='checkbox']:checked {
+    background: #abd;
+}
+
+.check-wrapper label{
+    font-size: 4vw;
+}
+
+.start_trip{
+    clear: both;
+    display: block;
+    /* font-size: 5vw; */
+    /* margin: 5px auto; */
+    color: white;
+    /* height: 10px; */
+    width: 50%;
+    /* padding: 5px 0px 5px 0px; */
+    text-align: center;
+    background-color: #4CAF50;
+}
